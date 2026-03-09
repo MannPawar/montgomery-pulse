@@ -160,7 +160,7 @@ with tab1:
     colA, colB = st.columns([1, 1])
     with colA:
         st.pydeck_chart(pdk.Deck(
-            map_style='mapbox://styles/mapbox/light-v9',
+            map_style='light',
             initial_view_state=pdk.ViewState(latitude=32.377, longitude=-86.300, zoom=12.5, pitch=45),
             layers=[
                 pdk.Layer('ScatterplotLayer', poi_df, get_position='[lon, lat]', get_color='[100, 150, 250, 100]', get_radius=80),
