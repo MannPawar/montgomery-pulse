@@ -1,0 +1,13 @@
+﻿Month,Miles_of_Roadway_Markings_Insta,Previous_Year___Miles_of_Roadwa,New_Traffic_Signs_Installed,Traffic_Signs_Replaced,Traffic_Signs_Repaired,Traffic_Signals_Inspected,Signalized_Intersections_Fully_,Signalized_Intersections_Partia,Signalized_Intersections_Repair,Street_Light_Fixtures_Repaired,Street_Light_Poles_Repaired,Signal_Detections_Upgraded,Signal_Detections_Replaced,Signal_Detections_Repaired,Signal_Controllers_and_Cabinets,Signal_Controllers_and_Cabine_1,Signal_Controllers_and_Cabine_2,Signal_Timings_Changed,FID
+01 - OCT,8.72,0.56,9,77,45,32,0,3,15,34,1,0,0,10,1,2,5,4,1
+02 - NOV,3.93,8.09,1,51,41,13,0,0,13,13,1,0,1,7,0,1,7,2,2
+03 - DEC,5.79,4.66,23,52,45,2,0,2,7,17,2,0,3,9,0,0,12,0,3
+04 - JAN,4.12,1.5,5,86,101,21,0,1,12,6,7,0,1,5,3,4,8,1,4
+05 - FEB,1.44,2.46,22,70,44,34,3,1,15,18,6,0,2,2,0,3,3,2,5
+06 - MAR,3.3,6.6,24,91,57,15,4,0,19,44,4,0,1,4,7,2,7,1,6
+07 - APR,8.24,11.22,26,152,25,24,2,4,12,25,13,0,0,3,0,1,3,0,7
+08 - MAY,6.44,1.88,10,41,24,30,0,1,26,17,8,0,0,7,1,2,4,1,8
+09 - JUN,0,8.26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+10 - JUL,0,8.17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+11 - AUG,0,9.95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+12 - SEP,0,1.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
